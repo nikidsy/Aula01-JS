@@ -1,7 +1,7 @@
 const name = "Nikollas";
-const idade = "18";
-const soma = 7 + 3;
+const age = "18";
+const sum = 7 + 3;
 
 console.log("Nome:", name);
-console.log("Idade:", idade);
-console.log("Soma de 7 + 3:", soma);
+console.log("Idade:", age);
+console.log("Soma de 7 + 3:", sum);
